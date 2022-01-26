@@ -285,3 +285,9 @@ if DEBUG:
     for word, count in words_and_counts.most_common():
         if count > 1:
             print(word, count)
+
+
+schools = ["Pomona","Scripps","Scripps","Scripps","CMC","Scripps",
+    "Scripps","Scripps","Pitzer","Pitzer","Scripps","Scripps",
+    "Pomona","Pomona","Scripps","Pitzer","Scripps","Pomona",
+    "Pomona","Scripps"]
